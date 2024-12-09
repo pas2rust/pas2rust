@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" />
     <img src="https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&logoColor=white" alt="Hyprland" />
     <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white" alt="Actix" />
+    <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white" alt="Tauri" />
     <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
