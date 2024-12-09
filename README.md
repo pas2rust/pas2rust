@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white" alt="Actix" />
     <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white" alt="Tauri" />
     <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white" alt="Serverless" />
+    <img src="https://img.shields.io/badge/Clean%20Architecture/MVC/DDD-yellow?style=flat&logo=bnbchain&logoColor=white" alt="Clean Architecture/MVC/DDD" />
 </div>
 
 ## Pas2rust Stack
