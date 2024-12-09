@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white" alt="Tauri" />
     <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white" alt="Serverless" />
     <img src="https://img.shields.io/badge/Clean%20Architecture/MVC/DDD-yellow?style=flat&logo=bnbchain&logoColor=white" alt="Clean Architecture/MVC/DDD" />
+    <img src="https://img.shields.io/badge/Procedural%20Macros-orange?style=flat&logo=rocket&logoColor=white" alt="Procedural Macros" />
 </div>
 
 ## Pas2rust Stack
