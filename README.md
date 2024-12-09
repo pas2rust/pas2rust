@@ -16,6 +16,11 @@
     <img src="https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=white" alt="Postgresql" />
     <img src="https://img.shields.io/badge/-Leptos-ff0000?style=flat&logo=leptos&logoColor=white" alt="Leptos" />
     <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx" alt="Nginx" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" />
+    <img src="https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&logoColor=white" alt="Hyprland" />
+    <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white" alt="Actix" />
+    <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white" alt="Serverless" />
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
