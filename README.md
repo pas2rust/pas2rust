@@ -18,6 +18,6 @@
 ## Pas2rust Stack
 
 - 🖥️ **System**: Arch Linux, Hyprland, Zsh, Kitty, Rust.
-- 🛠️ **Backend**: SQL, Actix Web, Diesel, Redis, Serverless, SSG, SSR.
+- 🛠️ **Backend**: SQL, Actix Web, Diesel, Redis, Serverless, SSG, SSR, R2d2.
 - 🌐 **Frontend**: Leptos, Tailwind CSS, HTML, JS.
 - 🚀 **Deploy**: Docker, Terraform, AWS, Google, Azure.
