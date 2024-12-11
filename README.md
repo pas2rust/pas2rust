@@ -1,27 +1,57 @@
 <img src="https://github.com/pas2rust/pas2rust/raw/main/banner.gif" width="100%">
 
-<div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/-Terraform-purple?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=white" alt="Postgresql" />
-    <img src="https://img.shields.io/badge/-Leptos-ff0000?style=flat&logo=leptos&logoColor=white" alt="Leptos" />
-    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx" alt="Nginx" />
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&logoColor=white" alt="Hyprland" />
-    <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white" alt="Actix" />
-    <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white" alt="Tauri" />
-    <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white" alt="Serverless" />
-    <img src="https://img.shields.io/badge/Clean%20Architecture/MVC/DDD-purple?style=flat&logo=bnbchain&logoColor=white" alt="Clean Architecture/MVC/DDD" />
-    <img src="https://img.shields.io/badge/Procedural%20Macros-orange?style=flat&logo=rocket&logoColor=white" alt="Procedural Macros" />
-    <img src="https://img.shields.io/badge/MDD(Macro%20Driven%20Design)-purple?style=flat&logo=ebox" alt="MDD(Macro Driven Design)" />
-</div>
+# Stack
 
-## Pas2rust Stack
-
-- 🖥️ **System**: Arch Linux, Hyprland, Zsh, Kitty, Rust.
-- 🛠️ **Backend**: SQL, Actix Web, Diesel, Redis, Serverless, SSG, SSR, R2d2.
-- 🌐 **Frontend**: Leptos, Tailwind CSS, HTML, JS.
-- 🚀 **Deploy**: Docker, Terraform, AWS, Google, Azure.
+<table>
+  <tr>
+    <th>System</th>
+    <td>
+      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&logoColor=white">
+      <img src="https://img.shields.io/badge/Alienware-541BAE?style=flat&logo=alienware&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust&logoColor=white">
+      <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white">
+      <img src="https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white">
+      <img src="https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Leptos-ff0000?style=flat&logo=leptos&logoColor=white">
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <th>DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/-Terraform-purple?style=flat&logo=terraform&logoColor=white">
+      <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white">
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx">
+    </td>
+  </tr>
+  <tr>
+    <th>Architecture and Design</th>
+    <td>
+      <img src="https://img.shields.io/badge/Clean%20Architecture/MVC/DDD-purple?style=flat&logo=bnbchain&logoColor=white">
+      <img src="https://img.shields.io/badge/Procedural%20Macros-orange?style=flat&logo=rocket&logoColor=white">
+      <img src="https://img.shields.io/badge/MDD(Macro%20Driven%20Design)-purple?style=flat&logo=ebox">
+    </td>
+  </tr>
+  <tr>
+    <th>Rendering</th>
+    <td>
+      <img src="https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white">
+      <img src="https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white">
+    </td>
+  </tr>
+</table>
