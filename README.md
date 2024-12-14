@@ -37,6 +37,7 @@
       <img src="https://img.shields.io/badge/-Terraform-purple?style=flat&logo=terraform&logoColor=white">
       <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white">
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx">
+      <img src="https://img.shields.io/badge/Prometheus-BD1C2B?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
     </td>
   </tr>
   <tr>
