@@ -53,6 +53,7 @@
     <td>
       <img src="https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white">
       <img src="https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white">
+      <img src="https://img.shields.io/badge/CSR-purple?style=flat&logo=instructure&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -60,7 +61,7 @@
     <td>
       <img src="https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday" alt="Pentest" />
       <img src="https://img.shields.io/badge/Purple%20Team-purple?style=flat&logo=redhat" alt="Purple Team" />
-      <img src="https://img.shields.io/badge/Bcrypt/Argon2/Kyber1024/Dilithium5/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/Kyber1024/Dilithium5/AES" />
+      <img src="https://img.shields.io/badge/Bcrypt/Argon2/Kyber/Dilithium/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/Kyber/Dilithium/AES" />
     </td>
   </tr>
 </table>
