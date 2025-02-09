@@ -53,7 +53,7 @@
     <td>
       <img src="https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white">
       <img src="https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white">
-      <img src="https://img.shields.io/badge/CSR-purple?style=flat&logo=instructure&logoColor=white">
+      <img src="https://img.shields.io/badge/CSR-purple?style=flat&logo=jetpackcompose&logoColor=white">
     </td>
   </tr>
   <tr>
