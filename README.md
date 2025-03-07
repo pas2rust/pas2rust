@@ -62,7 +62,16 @@
     <td>
       <img src="https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday" alt="Pentest" />
       <img src="https://img.shields.io/badge/Purple%20Team-purple?style=flat&logo=redhat" alt="Purple Team" />
-      <img src="https://img.shields.io/badge/Bcrypt/Argon2/Kyber/Dilithium/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/Kyber/Dilithium/AES" />
+      <img src="https://img.shields.io/badge/Bcrypt/Argon2/Kyber/Dilithium/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
     </td>
   </tr>
+   <tr>
+    <th>Wallets</th>
+    <td>
+       <img src="https://img.shields.io/badge/Monero-FF6600?style=flat&logo=monero&logoColor=white" alt="Monero" />
+       <img src="https://img.shields.io/badge/Cardano-0133AD?style=flat&logo=cardano&logoColor=white" alt="Cardano" />
+       <img src="https://img.shields.io/badge/Bitcoin-EAB300?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+    </td>
+  </tr>
+ 
 </table>
