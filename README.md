@@ -45,8 +45,9 @@
   <tr>
     <th>Architecture and Design</th>
     <td>
-      <img src="https://img.shields.io/badge/Clean%20Architecture/MVC/DDD-purple?style=flat&logo=bnbchain&logoColor=white">
-      <img src="https://img.shields.io/badge/Procedural%20Macros-orange?style=flat&logo=rocket&logoColor=white">
+      <img src="https://img.shields.io/badge/Clean%20Architecture-purple?style=flat&logo=bnbchain&logoColor=white">
+      <img src="https://img.shields.io/badge/MVC-purple?style=flat&logo=bnbchain&logoColor=white">
+      <img src="https://img.shields.io/badge/DDD-purple?style=flat&logo=bnbchain&logoColor=white">
       <img src="https://img.shields.io/badge/MDD(Macro%20Driven%20Design)-purple?style=flat&logo=ebox">
     </td>
   </tr>
