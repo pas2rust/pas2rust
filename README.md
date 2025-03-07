@@ -20,6 +20,7 @@
       <img src="https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
       <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+      <img src="https://img.shields.io/badge/Axum-FF0000?style=flat&logo=rocket&logoColor=white" alt="Axum" />
     </td>
   </tr>
   <tr>
