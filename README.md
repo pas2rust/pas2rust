@@ -62,7 +62,7 @@
     <td>
       <img src="https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday" alt="Pentest" />
       <img src="https://img.shields.io/badge/Purple%20Team-purple?style=flat&logo=redhat" alt="Purple Team" />
-      <img src="https://img.shields.io/badge/Bcrypt/Argon2/Kyber/Dilithium/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
+      <img src="https://img.shields.io/badge/Bcrypt/Argon2/AES/Post Quantum-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
     </td>
   </tr>
    <tr>
