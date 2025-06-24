@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white">
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx">
       <img src="https://img.shields.io/badge/Prometheus-BD1C2B?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Kurbenetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kurbenetes" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     </td>
   </tr>
   <tr>
