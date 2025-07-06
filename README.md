@@ -1,5 +1,3 @@
-<img src="https://github.com/pas2rust/pas2rust/raw/main/banner.gif" width="100%">
-
 # Stack
 
 <table>
