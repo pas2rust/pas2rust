@@ -4,8 +4,8 @@
   <tr>
     <th>System</th>
     <td>
-      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white">
-      <img src="https://img.shields.io/badge/Hyprland-blue?style=flat&logo=hyprland&logoColor=white">
+      <img src="https://img.shields.io/badge/Ubuntu%20Linux-1793D1?style=flat&logo=Ubuntu&logoColor=white">
+      <img src="https://img.shields.io/badge/Gnome-blue?style=flat&logo=gnome&logoColor=white">
       <img src="https://img.shields.io/badge/Alienware-541BAE?style=flat&logo=alienware&logoColor=white">
     </td>
   </tr>
