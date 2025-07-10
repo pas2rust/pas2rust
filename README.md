@@ -72,8 +72,7 @@
     <th>Wallets</th>
     <td>
        <img src="https://img.shields.io/badge/88NKLkhZf1nTVpaSU6vwG6dwBwb9tFVSM8Lpj3YqdL1PMt8Gm7opV7aUnMYBaAC9Y6a4kfDc3fLGoMVqeSJKNphyLpLdEvC-FF6600?style=flat&logo=monero&logoColor=white" alt="Monero" />
-       <img src="https://img.shields.io/badge/Cardano-0133AD?style=flat&logo=cardano&logoColor=white" alt="Cardano" />
-       <img src="https://img.shields.io/badge/Bitcoin-EAB300?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+       <img src="https://img.shields.io/badge/bc1qnlayyh84e9u5pd4m9g9sf4c5zdzswvkmudmdu5-EAB300?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin" />
     </td>
   </tr>
  
