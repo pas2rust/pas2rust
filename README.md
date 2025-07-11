@@ -34,18 +34,12 @@
 
 ### 📦 Featured Crates
 
-- [`nekoui`](https://github.com/pas2rust/nekoui)  
-  Component toolkit built with Tailwind and Leptos, designed for building stylish UI with Rust + WASM.
-- [`zipher`](https://github.com/pas2rust/zipher)  
-  Cryptographic toolkit written in Rust, supporting AES, Argon2, post-quantum KEMs, JWT, and more — all under a unified API.
-- [`path2enum`](https://github.com/pas2rust/path2enum)  
-  Procedural macro to generate enums based on your project's real file paths. Autocomplete-friendly and type-safe.
-- [`kenzu`](https://github.com/pas2rust/kenzu)  
-  Builder-pattern macro crate for Rust with optional compile-time validation using field-level attributes.
-- [`neto`](https://github.com/pas2rust/neto)  
-  HTTP client abstraction in Rust built on top of `reqwest::Client`, with builder pattern, header support, and easy configuration.
-- [`mokuya`](https://github.com/pas2rust/mokuya)  
-  Helper crate for writing procedural macros. Includes adapters and abstractions over `syn`, `quote` and `proc_macro2`.
+- [`nekoui`](https://github.com/pas2rust/nekoui) Component toolkit built with Tailwind and Leptos, designed for building stylish UI with Rust + WASM.
+- [`zipher`](https://github.com/pas2rust/zipher) Cryptographic toolkit written in Rust, supporting AES, Argon2, post-quantum KEMs, JWT, and more — all under a unified API.
+- [`path2enum`](https://github.com/pas2rust/path2enum) Procedural macro to generate enums based on your project's real file paths. Autocomplete-friendly and type-safe.
+- [`kenzu`](https://github.com/pas2rust/kenzu) Builder-pattern macro crate for Rust with optional compile-time validation using field-level attributes.
+- [`neto`](https://github.com/pas2rust/neto) HTTP client abstraction in Rust built on top of `reqwest::Client`, with builder pattern, header support, and easy configuration.
+- [`mokuya`](https://github.com/pas2rust/mokuya) Helper crate for writing procedural macros. Includes adapters and abstractions over `syn`, `quote` and `proc_macro2`.
 
 ---
 
