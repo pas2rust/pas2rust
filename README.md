@@ -34,12 +34,14 @@
 
 ### 📦 Featured Crates
 
-- [`nekoui`](https://github.com/pas2rust/nekoui) Component toolkit built with Tailwind and Leptos, designed for building stylish UI with Rust + WASM.
-- [`zipher`](https://github.com/pas2rust/zipher) Cryptographic toolkit written in Rust, supporting AES, Argon2, post-quantum KEMs, JWT, and more — all under a unified API.
-- [`path2enum`](https://github.com/pas2rust/path2enum) Procedural macro to generate enums based on your project's real file paths. Autocomplete-friendly and type-safe.
-- [`kenzu`](https://github.com/pas2rust/kenzu) Builder-pattern macro crate for Rust with optional compile-time validation using field-level attributes.
-- [`neto`](https://github.com/pas2rust/neto) HTTP client abstraction in Rust built on top of `reqwest::Client`, with builder pattern, header support, and easy configuration.
-- [`mokuya`](https://github.com/pas2rust/mokuya) Helper crate for writing procedural macros. Includes adapters and abstractions over `syn`, `quote` and `proc_macro2`.
+| Crate | Descrição |
+|------|-----------|
+| **_[nekoui](https://github.com/pas2rust/nekoui)_** | Component toolkit built with Tailwind and Leptos for stylish UI in Rust + WASM. |
+| **_[zipher](https://github.com/pas2rust/zipher)_** | Cryptography toolkit (AES, Argon2, PQ-KEMs, JWT) in a unified Rust API. |
+| **_[path2enum](https://github.com/pas2rust/path2enum)_** | Generate enums from file paths. Type-safe, IDE-friendly macros. |
+| **_[kenzu](https://github.com/pas2rust/kenzu)_** | Builder pattern macro with compile-time validation using field attributes. |
+| **_[neto](https://github.com/pas2rust/neto)_** | HTTP client abstraction with builder pattern over `reqwest`. |
+| **_[mokuya](https://github.com/pas2rust/mokuya)_** | Utility crate for writing procedural macros using `syn`, `quote`, and `proc_macro2`. |
 
 ---
 
