@@ -1,79 +1,53 @@
-# Stack
+<h1 align="center">🦀 pas2rust</h1>
 
-<table>
-  <tr>
-    <th>System</th>
-    <td>
-      <img src="https://img.shields.io/badge/Ubuntu%20Linux-1793D1?style=flat&logo=Ubuntu&logoColor=white">
-      <img src="https://img.shields.io/badge/Gnome-blue?style=flat&logo=gnome&logoColor=white">
-      <img src="https://img.shields.io/badge/Alienware-541BAE?style=flat&logo=alienware&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <th>Backend</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust&logoColor=white">
-      <img src="https://img.shields.io/badge/Actix-orange?style=flat&logo=actix&logoColor=white">
-      <img src="https://img.shields.io/badge/-Redis-ff0000?style=flat&logo=redis&logoColor=white">
-      <img src="https://img.shields.io/badge/-Postgresql-blue?style=flat&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
-      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white">
-      <img src="https://img.shields.io/badge/Axum-FF0000?style=flat&logo=rocket&logoColor=white" alt="Axum" />
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Leptos-ff0000?style=flat&logo=leptos&logoColor=white">
-      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-      <img src="https://img.shields.io/badge/Tauri-yellow?style=flat&logo=tauri&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <th>DevOps</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/-Terraform-purple?style=flat&logo=terraform&logoColor=white">
-      <img src="https://img.shields.io/badge/Serverless-E7282D?style=flat&logo=serverless&logoColor=white">
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx">
-      <img src="https://img.shields.io/badge/Prometheus-BD1C2B?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    </td>
-  </tr>
-  <tr>
-    <th>Architecture and Design</th>
-    <td>
-      <img src="https://img.shields.io/badge/Clean%20Architecture-purple?style=flat&logo=bnbchain&logoColor=white">
-      <img src="https://img.shields.io/badge/MVC-purple?style=flat&logo=bnbchain&logoColor=white">
-      <img src="https://img.shields.io/badge/DDD-purple?style=flat&logo=bnbchain&logoColor=white">
-      <img src="https://img.shields.io/badge/MDD(Macro%20Driven%20Design)-purple?style=flat&logo=ebox">
-    </td>
-  </tr>
-  <tr>
-    <th>Rendering</th>
-    <td>
-      <img src="https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white">
-      <img src="https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white">
-      <img src="https://img.shields.io/badge/CSR-purple?style=flat&logo=jetpackcompose&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <th>Cybersecurity</th>
-    <td>
-      <img src="https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday" alt="Pentest" />
-      <img src="https://img.shields.io/badge/Purple%20Team-purple?style=flat&logo=redhat" alt="Purple Team" />
-      <img src="https://img.shields.io/badge/Bcrypt-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
-       <img src="https://img.shields.io/badge/Argon2-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
-       <img src="https://img.shields.io/badge/AES-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
-       <img src="https://img.shields.io/badge/Post quantum-F40027?style=flat&logo=keeweb&logoColor=white" alt="Bcrypt/Argon2/AES/Post Quantum" />
-    </td>
-  </tr>
-   <tr>
-    <th>Wallets</th>
-    <td>
-       <img src="https://img.shields.io/badge/88NKLkhZf1nTVpaSU6vwG6dwBwb9tFVSM8Lpj3YqdL1PMt8Gm7opV7aUnMYBaAC9Y6a4kfDc3fLGoMVqeSJKNphyLpLdEvC-FF6600?style=flat&logo=monero&logoColor=white" alt="Monero" />
-       <img src="https://img.shields.io/badge/bc1qnlayyh84e9u5pd4m9g9sf4c5zdzswvkmudmdu5-EAB300?style=flat&logo=bitcoin&logoColor=white" alt="Bitcoin" />
-    </td>
-  </tr>
- 
-</table>
+<p align="center">
+  <b>Full Stack Engineer | Embedded & Cybersecurity | Rust Evangelist</b><br>
+  <sub>Purple Team 🛡 | System Architecture | Procedural Macros | Wallets</sub>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔧 Software Engineer with 7+ years of experience
+- 🦀 Rust-first philosophy (macro-heavy 🧬)
+- 🖥 Full Stack: from Web UI to Embedded Systems
+- 🧱 Builder of tools, not just code (check out my macros!)
+- 🧪 Penetration Testing enthusiast (Red + Blue = Purple 🟣)
+
+---
+
+### 🚀 Stack
+
+| Area                      | Technologies |
+|---------------------------|--------------|
+| **System**                | ![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-0088cc?style=flat&logo=ubuntu&logoColor=white) ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?style=flat&logo=gnome&logoColor=white) ![Alienware](https://img.shields.io/badge/Alienware-4300f5?style=flat&logo=alienware&logoColor=white) |
+| **Backend**               | ![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white) ![Actix](https://img.shields.io/badge/Actix-4B5D67?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka) ![Axum](https://img.shields.io/badge/Axum-purple?style=flat) |
+| **Frontend**              | ![Leptos](https://img.shields.io/badge/Leptos-00c9a7?style=flat) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri) |
+| **DevOps**                | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| **Architecture**          | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-purple?style=flat&logo=bnbchain&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-purple?style=flat&logo=bnbchain&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-purple?style=flat&logo=bnbchain&logoColor=white) ![MDD](https://img.shields.io/badge/MDD(Macro_Driven_Design)-purple?style=flat&logo=ebox) |
+| **Rendering**             | ![SSG](https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white) ![SSR](https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white) ![CSR](https://img.shields.io/badge/CSR-purple?style=flat&logo=jetpackcompose&logoColor=white) |
+| **Cybersecurity**         | ![Pentest](https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday) ![Purple Team](https://img.shields.io/badge/Purple_Team-800080?style=flat&logo=redhat) ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=flat&logo=keeweb&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-darkred?style=flat&logo=keeweb&logoColor=white) ![AES](https://img.shields.io/badge/AES-orange?style=flat&logo=keeweb&logoColor=white) ![Post Quantum](https://img.shields.io/badge/Post_Quantum-red?style=flat&logo=keeweb&logoColor=white) |
+| **Wallets**               | ![Monero](https://img.shields.io/badge/Monero-FF6600?style=flat&logo=monero&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-EAB300?style=flat&logo=bitcoin&logoColor=white) |
+
+---
+
+### 📦 Featured Crates
+
+- [`nekoui`](https://github.com/pas2rust/nekoui): Component toolkit built with Tailwind and Leptos
+- [`zipher`](https://github.com/pas2rust/zipher): Cryptographic toolkit (AES, PQ-KEM, JWT, etc.)
+- [`path2enum`](https://github.com/pas2rust/path2enum): Generate enums from real file paths
+- [`kenzu`](https://github.com/pas2rust/kenzu): Builder-pattern macro crate using field attributes
+
+---
+
+### 📬 Contact
+
+- Email: [`pas2000@proton.me`](mailto:pas2000@proton.me)
+- GitHub: [`@pas2rust`](https://github.com/pas2rust)
+- Timezone: UTC-3
+
+---
+
+> *"Type-safe everything. Macro all the things. Trust in Rust."*
+
