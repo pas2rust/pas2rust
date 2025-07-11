@@ -34,7 +34,7 @@
 
 ### 📦 Featured Crates
 
-| Crate | Descrição |
+| Crate | Description |
 |------|-----------|
 | **_[nekoui](https://github.com/pas2rust/nekoui)_** | Component toolkit built with Tailwind and Leptos for stylish UI in Rust + WASM. |
 | **_[zipher](https://github.com/pas2rust/zipher)_** | Cryptography toolkit (AES, Argon2, PQ-KEMs, JWT) in a unified Rust API. |
