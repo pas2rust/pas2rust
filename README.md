@@ -49,7 +49,6 @@
 
 - Email: [`pas2000@proton.me`](mailto:pas2000@proton.me)
 - GitHub: [`@pas2rust`](https://github.com/pas2rust)
-- Timezone: UTC-3
 
 ---
 
