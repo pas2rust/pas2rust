@@ -49,7 +49,7 @@
 
 - Email: [`pas2000@proton.me`](mailto:pas2000@proton.me)
 - GitHub: [`@pas2rust`](https://github.com/pas2rust)
-- 🇸ession: [`05becb1377b8459ad4fe9869718d65997c9225a9fa35b91768a80adc2bd9541b77`]
+- Session: `05becb1377b8459ad4fe9869718d65997c9225a9fa35b91768a80adc2bd9541b77`
 
 ---
 
