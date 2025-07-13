@@ -48,9 +48,9 @@
 ### 📬 Contact
 
 - Email: [`pas2000@proton.me`](mailto:pas2000@proton.me)
-- GitHub: [`@pas2rust`](https://github.com/pas2rust)
 - Session: `05becb1377b8459ad4fe9869718d65997c9225a9fa35b91768a80adc2bd9541b77`
 - tox: `E42FC08814CB2CBF13E6F984B8B28A180B555647394845EEE784744D1739023990A0698A9A4C`
+- matrix: `@pas2rust:matrix.org`
 ---
 
 > *"Type-safe everything. Macro all the things. Trust in Rust."*
