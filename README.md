@@ -42,6 +42,7 @@
 | **_[kenzu](https://github.com/pas2rust/kenzu)_** | Builder pattern macro with compile-time validation using field attributes. |
 | **_[neto](https://github.com/pas2rust/neto)_** | HTTP client abstraction with builder pattern over `reqwest`. |
 | **_[mokuya](https://github.com/pas2rust/mokuya)_** | Utility crate for writing procedural macros using `syn`, `quote`, and `proc_macro2`. |
+| **_[shori](https://github.com/pas2rust/shori)_** | Derive macro parser for automatically generating parsing logic for native types and wrappers (e.g., Mutex, Arc, Box, etc.), with support for JSON, TOML, binary formats, and nested structures. Designed for macro-driven design workflows.
 
 ---
 
