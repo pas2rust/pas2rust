@@ -1,11 +1,12 @@
 <h1 align="center">🦀 pas2rust</h1>
-
-[![PAS profile views](https://u8views.com/api/v1/github/profiles/190209917/views/day-week-month-total-count.svg)](https://u8views.com/github/pas2rust)
-
 <p align="center">
   <b>Full Stack Engineer | Embedded & Cybersecurity | Rust Evangelist</b><br>
   <sub>Purple Team 🛡 | System Architecture | Procedural Macros | Wallets</sub>
 </p>
+
+---
+
+[![PAS profile views](https://u8views.com/api/v1/github/profiles/190209917/views/day-week-month-total-count.svg)](https://u8views.com/github/pas2rust)
 
 ---
 
