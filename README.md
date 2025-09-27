@@ -69,7 +69,7 @@
 - [![Monero QR](https://img.shields.io/badge/Monero%20QR-FF6600?style=flat&logo=monero&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-monero-donate.png)
 - [![BTC QR](https://img.shields.io/badge/BTC%20QR-EAB300?style=flat&logo=bitcoin&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-bitcoin-donate.png)
 - [![Revolut QR](https://img.shields.io/badge/Revolut%20QR-Blue?style=flat&logo=revolut&logoColor=white)](https://revolut.me/pas2rust)
-
+- [![Wise QR](https://img.shields.io/badge/Wise%20QR-1CA0F2?style=flat&logo=wise&logoColor=white)](https://wise.com/pay/me/pedroaugustos99)
 ---
 
 > *"Type-safe everything. Macro all the things. Trust in Rust."*
