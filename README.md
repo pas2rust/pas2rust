@@ -6,7 +6,11 @@
 
 ---
 
-[![PAS profile views](https://u8views.com/api/v1/github/profiles/190209917/views/day-week-month-total-count.svg)](https://u8views.com/github/pas2rust)
+<p align="center">
+  <a href="https://u8views.com/github/pas2rust">
+    <img src="https://u8views.com/api/v1/github/profiles/190209917/views/day-week-month-total-count.svg" alt="PAS profile views" />
+  </a>
+</p>
 
 ---
 
