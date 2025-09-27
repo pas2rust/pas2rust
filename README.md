@@ -63,13 +63,26 @@
 - tox: `E42FC08814CB2CBF13E6F984B8B28A180B555647394845EEE784744D1739023990A0698A9A4C`
   
 ---
+<h2 align="center">
+  <strong>❤️ Donate</strong>
+</h2>
 
-# ❤️ Donate
+<p align="center">
+  <a href="https://github.com/pas2rust/pas2rust/blob/main/pas-monero-donate.png" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/Monero%20QR-FF6600?style=flat&logo=monero&logoColor=white" alt="Monero QR"/>
+  </a>
+  <a href="https://github.com/pas2rust/pas2rust/blob/main/pas-bitcoin-donate.png" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/BTC%20QR-EAB300?style=flat&logo=bitcoin&logoColor=white" alt="BTC QR"/>
+  </a>
+  <a href="https://revolut.me/pas2rust" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/Revolut%20QR-Blue?style=flat&logo=revolut&logoColor=white" alt="Revolut QR"/>
+  </a>
+  <a href="https://wise.com/pay/me/pedroaugustos99" style="text-decoration:none; color:inherit;">
+    <img src="https://img.shields.io/badge/Wise%20QR-1CA0F2?style=flat&logo=wise&logoColor=white" alt="Wise QR"/>
+  </a>
+</p>
 
-- [![Monero QR](https://img.shields.io/badge/Monero%20QR-FF6600?style=flat&logo=monero&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-monero-donate.png)
-- [![BTC QR](https://img.shields.io/badge/BTC%20QR-EAB300?style=flat&logo=bitcoin&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-bitcoin-donate.png)
-- [![Revolut QR](https://img.shields.io/badge/Revolut%20QR-Blue?style=flat&logo=revolut&logoColor=white)](https://revolut.me/pas2rust)
-- [![Wise QR](https://img.shields.io/badge/Wise%20QR-1CA0F2?style=flat&logo=wise&logoColor=white)](https://wise.com/pay/me/pedroaugustos99)
+
 ---
 
 > *"Type-safe everything. Macro all the things. Trust in Rust."*
