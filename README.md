@@ -35,7 +35,6 @@
 | **Architecture**          | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-purple?style=flat&logo=bnbchain&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-purple?style=flat&logo=bnbchain&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-purple?style=flat&logo=bnbchain&logoColor=white) ![MDD](https://img.shields.io/badge/MDD(Macro_Driven_Design)-purple?style=flat&logo=ebox) |
 | **Rendering**             | ![SSG](https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white) ![SSR](https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white) ![CSR](https://img.shields.io/badge/CSR-purple?style=flat&logo=jetpackcompose&logoColor=white) |
 | **Cybersecurity**         | ![Pentest](https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday) ![Purple Team](https://img.shields.io/badge/Purple_Team-800080?style=flat&logo=redhat) ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=flat&logo=keeweb&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-darkred?style=flat&logo=keeweb&logoColor=white) ![AES](https://img.shields.io/badge/AES-orange?style=flat&logo=keeweb&logoColor=white) ![Post Quantum](https://img.shields.io/badge/Post_Quantum-red?style=flat&logo=keeweb&logoColor=white) |
-| **Wallets**               | [![Monero](https://img.shields.io/badge/88NKLkhZf1nTVpaSU6vwG6dwBwb9tFVSM8Lpj3YqdL1PMt8Gm7opV7aUnMYBaAC9Y6a4kfDc3fLGoMVqeSJKNphyLpLdEvC-FF6600?style=flat&logo=monero&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-monero-donate.png) [![Bitcoin](https://img.shields.io/badge/bc1qnlayyh84e9u5pd4m9g9sf4c5zdzswvkmudmdu5-EAB300?style=flat&logo=bitcoin&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-bitcoin-donate.png) |
 
 ---
 ### 📦 Featured Crates
@@ -54,9 +53,6 @@
 | [**pasops**](https://github.com/pas2rust/pasops) | CLI and utilities for dev automation (badge generation, repository operations, CI helpers). | [![Crates.io](https://img.shields.io/crates/v/pasops.svg)](https://crates.io/crates/pasops) [![Docs.rs](https://docs.rs/pasops/badge.svg)](https://docs.rs/pasops) [![License](https://img.shields.io/crates/l/pasops.svg)](https://github.com/pas2rust/pasops/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/pas2rust/pasops?color=orange&logo=rust&style=flat&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/pas2rust/pasops?color=success&style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/pas2rust/pasops?color=orange&logo=Furry%20Network&style=flat&logoColor=white) ![Tests](https://raw.githubusercontent.com/pas2rust/badges/main/pasops-tests.svg) ![Crates.io downloads](https://img.shields.io/crates/d/pasops.svg) [![Last commit](https://img.shields.io/github/last-commit/pas2rust/pasops?color=ff69b4&label=update&logo=git&style=flat&logoColor=white)](https://github.com/pas2rust/pasops/commits/main) |
 | [**nekoprint**](https://github.com/pas2rust/nekoprint) | Derive macro for generating asynchronous printing methods, supporting styled outputs (success, warning, critical, etc.) with Tokio integration. | [![Crates.io](https://img.shields.io/crates/v/nekoprint.svg)](https://crates.io/crates/nekoprint) [![Docs.rs](https://docs.rs/nekoprint/badge.svg)](https://docs.rs/nekoprint) [![License](https://img.shields.io/crates/l/nekoprint.svg)](https://github.com/pas2rust/nekoprint/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/pas2rust/nekoprint?color=orange&logo=rust&style=flat&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/pas2rust/nekoprint?color=success&style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/pas2rust/nekoprint?color=orange&logo=Furry%20Network&style=flat&logoColor=white) ![Tests](https://raw.githubusercontent.com/pas2rust/badges/main/nekoprint-tests.svg) ![Crates.io downloads](https://img.shields.io/crates/d/nekoprint.svg) [![Last commit](https://img.shields.io/github/last-commit/pas2rust/nekoprint?color=ff69b4&label=update&logo=git&style=flat&logoColor=white)](https://github.com/pas2rust/nekoprint/commits/main) |
 
-
-
-
 ---
 
 ### 📬 Contact
@@ -65,6 +61,15 @@
 - Email: [`pas2000@proton.me`](mailto:pas2000@proton.me)
 - Session: `05becb1377b8459ad4fe9869718d65997c9225a9fa35b91768a80adc2bd9541b77`
 - tox: `E42FC08814CB2CBF13E6F984B8B28A180B555647394845EEE784744D1739023990A0698A9A4C`
+  
+---
+
+# ❤️ Donate
+
+- [![Monero](https://img.shields.io/badge/88NKLkhZf1nTVpaSU6vwG6dwBwb9tFVSM8Lpj3YqdL1PMt8Gm7opV7aUnMYBaAC9Y6a4kfDc3fLGoMVqeSJKNphyLpLdEvC-FF6600?style=flat&logo=monero&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-monero-donate.png)
+- [![Bitcoin](https://img.shields.io/badge/bc1qnlayyh84e9u5pd4m9g9sf4c5zdzswvkmudmdu5-EAB300?style=flat&logo=bitcoin&logoColor=white)](https://github.com/pas2rust/pas2rust/blob/main/pas-bitcoin-donate.png) 
+- [![Revolut](https://img.shields.io/badge/Revolut-Blue?style=flat&logo=revolut&logoColor=white)](https://r.revolut.com/pas2rust)
+
 ---
 
 > *"Type-safe everything. Macro all the things. Trust in Rust."*
