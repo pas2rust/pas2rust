@@ -37,7 +37,7 @@
 | **Cybersecurity**         | ![Pentest](https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday) ![Purple Team](https://img.shields.io/badge/Purple_Team-800080?style=flat&logo=redhat) ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=flat&logo=keeweb&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-darkred?style=flat&logo=keeweb&logoColor=white) ![AES](https://img.shields.io/badge/AES-orange?style=flat&logo=keeweb&logoColor=white) ![Post Quantum](https://img.shields.io/badge/Post_Quantum-red?style=flat&logo=keeweb&logoColor=white) |
 
 ---
-### 🧩 Featured App
+### 🧩 Featured App's
 
 | App     | About | Badges |
 |---------|-------|--------|
