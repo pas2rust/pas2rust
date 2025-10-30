@@ -36,14 +36,6 @@
 | **Rendering**             | ![SSG](https://img.shields.io/badge/SSG-purple?style=flat&logo=webpack&logoColor=white) ![SSR](https://img.shields.io/badge/SSR-purple?style=flat&logo=instructure&logoColor=white) ![CSR](https://img.shields.io/badge/CSR-purple?style=flat&logo=jetpackcompose&logoColor=white) |
 | **Cybersecurity**         | ![Pentest](https://img.shields.io/badge/Pentest-black?style=flat&logo=hackaday) ![Purple Team](https://img.shields.io/badge/Purple_Team-800080?style=flat&logo=redhat) ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A4A4A?style=flat&logo=keeweb&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-darkred?style=flat&logo=keeweb&logoColor=white) ![AES](https://img.shields.io/badge/AES-orange?style=flat&logo=keeweb&logoColor=white) ![Post Quantum](https://img.shields.io/badge/Post_Quantum-red?style=flat&logo=keeweb&logoColor=white) |
 
----
-### 🧩 Featured App's
-
-| App     | About | Badges |
-|---------|-------|--------|
-| [**nekoerp**](https://github.com/pas2rust/nekoerp) | Modular ERP monorepo with core services: Inventory, Sales, Billing, Purchasing, Finance, CRM, HR, Reports, Settings, API Gateway, Integrations, Notifications, Dashboard, Analytics, Mobile/PWA endpoints, Sync, Admin tools, Devtools, and Docs. | [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-red?logo=creativecommons&style=flat&logoColor=white)](https://github.com/pas2rust/nekoerp/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/pas2rust/nekoerp?color=success&style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/pas2rust/nekoerp?color=orange&logo=Furry%20Network&style=flat&logoColor=white) ![Tests](https://raw.githubusercontent.com/pas2rust/badges/main/nekoerp-tests.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/pas2rust/nekoerp?style=flat) [![Last commit](https://img.shields.io/github/last-commit/pas2rust/nekotracing?color=ff69b4&label=update&logo=git&style=flat&logoColor=white)](https://github.com/pas2rust/nekoerp/commits/main) |
-
-
 
 ---
 ### 📦 Featured Crates
